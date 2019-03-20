@@ -21,6 +21,16 @@
 
     <repositories>
         <repository>
+        <id>dev-azure-com-bpandiri9706-testfeed</id>
+        <url>https://pkgs.dev.azure.com/BPandiri9706/_packaging/TestFeed/maven/v1</url>
+        <releases>
+          <enabled>true</enabled>
+        </releases>
+        <snapshots>
+          <enabled>true</enabled>
+        </snapshots>
+        </repository>     
+        <repository>
             <snapshots>
                 <enabled>false</enabled>
             </snapshots>
