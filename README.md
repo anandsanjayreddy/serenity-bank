@@ -9,7 +9,7 @@ The project uses [Maven 3](https://maven.apache.org) or [Gradle](https://gradle.
 
 ## Setting up the project
 
-To get started, clone this project either from the command line or via your Git client:
+To get started, clone this    project either from the command line or via your Git client:
 ```
 git clone git@github.com:wakaleo/serenity-bank.git
 ```
