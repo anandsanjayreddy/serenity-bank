@@ -5,7 +5,7 @@
 This sample project is used as part of the [BDD/TDD Masterclass](https://johnfergusonsmart.com/programs-courses/bdd-tdd-clean-coding/) run by [John Ferguson Smart](https://johnfergusonsmart.com/programs-courses/bdd-tdd-clean-coding/). It is a simple application that simulates the core of an online banking system. 
 
 
-The project uses [Maven 3](https://maven.apache.org) or [Gradle](https://gradle.org/), Java 8, [Cucumber JVM](https://cucumber.io/) and [Spock](http://spockframework.org/). You will only need to install Java 8 and Maven 3 - the other dependencies will be downloaded as part of the build process. You will also need Git and a GitHub account, both to clone the repository and to navigate between different exercises. If you are new to Git and GitHub, we recommend the [Github Desktop application](https://desktop.github.com).
+The project uses [Maven 3](https://maven.apache.org) or [Gradle](https://gradle.org/), Java 8, [Cucumber JVM](https://cucumber.io/) and [Spock](http://spockframework.org/). You will only need to install Java 8 and Maven 3 - the other dependencies will be downloaded as part of the build process. You will also need Git and a GitHub account, both to clone the repository and to navigate between different exercises. If yo are new to Git and GitHub, we recommend the [Github Desktop application](https://desktop.github.com).
 
 ## Setting up the project
 
