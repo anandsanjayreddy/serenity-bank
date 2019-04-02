@@ -1,6 +1,6 @@
 # BDD In Action Online Banking Sample Project
 
-### Introduction
+## Introduction
 
 This sample project is used as part of the [BDD/TDD Masterclass](https://johnfergusonsmart.com/programs-courses/bdd-tdd-clean-coding/) run by [John Ferguson Smart](https://johnfergusonsmart.com/programs-courses/bdd-tdd-clean-coding/). It is a simple application that simulates the core of an online banking system. 
 
